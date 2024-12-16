@@ -31,6 +31,8 @@ VANA_NETWORK=moksha
 OLLAMA_API_URL=http://ollama:11434/api
 ```
 Run the miner:
+https://github.com/sixgpt/miner.git
+cd miner
 
 ```
 docker-compose up -d
